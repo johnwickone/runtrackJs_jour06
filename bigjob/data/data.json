@@ -1,0 +1,9 @@
+{
+  "allowedDomain": "@laplateforme.io",
+  "statuses": ["en attente", "acceptée", "refusée"],
+  "defaultAdmin": {
+    "name": "Admin Demo",
+    "email": "admin@laplateforme.io",
+    "role": "admin"
+  }
+}
